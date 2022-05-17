@@ -27,7 +27,7 @@ if T<100000
     for k = 2 : min(T,floor(T/h))-1 % 分类数k，从二分类开始，最多到floor(T/h)-1分类
         for n = h*k : T % 样本数量n至少为h*k个，最多是T个
             minLP = 10^300;
-            strcat('k:',num2str(k),' n:',num2str(n))
+            strcat('k:',num2str(k),' n:',num2str(n));
             if k == 2
                 for j = h*(k-1)+1 : n-h+1 % 分割点j，从h*(k-1)+1开始找，找至n-h+1
                     d = D(1,j-1)+D(j,n);
@@ -56,7 +56,7 @@ else
     for k = 2 : min(T,floor(T/h))-1 % 分类数k，从二分类开始，最多到floor(T/h)-1分类
         for n = h*k : T % 样本数量n至少为h*k个，最多是T个
             minLP = 10^300;
-            strcat('k:',num2str(k),' n:',num2str(n))
+            strcat('k:',num2str(k),' n:',num2str(n));
             if k == 2
                 for j = h*(k-1)+1 : n-h+1 % 分割点j，从h*(k-1)+1开始找，找至n-h+1
                     %                     d = std(sigma2(1:j-1))*(j-1)+std(sigma2(j:n))*(n-j+1);
