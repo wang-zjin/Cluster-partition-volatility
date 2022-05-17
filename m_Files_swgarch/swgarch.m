@@ -196,6 +196,8 @@ switch nargin
     otherwise
         error('Number of inputs must be between 2 and 10');
 end
+      options  =  optimset(options , 'Display'     , 'iter');
+      options  =  optimset(options , 'Diagnostics' , 'on');
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Initial setup
