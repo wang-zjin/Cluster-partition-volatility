@@ -8,7 +8,7 @@ if T<100000
     if nargin < 3
         D = zeros(T,T);  %¼ÆËãÖ±¾¶
         for i = 1 : T
-            strcat('D:',num2str(i))
+            strcat('D:',num2str(i));
             for j = i : T
                 D(i,j) = sum(    (    sigma2(i:j) - mean(sigma2(i:j)) ).^2            );
                 %                 D(i,j) = (std(sigma2(i:j))*(j-i+1)).^2;
