@@ -8,3 +8,5 @@ The actual volatility is proxied by realised volatility. The forecast time is fr
 "exercise_VolForecastRV_robust_20220522.mlx" and "exercise_VolForecastRV_t_robust_20220522.mlx" are for robustness test.
 
 "exercise_VolForecastRV20220613.mlx" is to forecast volatilities from 2022/01/01 to 2022/05. The competing models are GARCH, GJR-GARCH, RS-GARCH and HAR. HAR performs well and RS-GARCH is terrible.
+"exercise_VolForecastRV20220704.mlx" is the improved one for "exercise_VolForecastRV20220613.mlx".
+
