@@ -12,3 +12,4 @@ The actual volatility is proxied by realised volatility. The forecast time is fr
 "exercise_VolForecastRV20220707.mlx" uses "parfor" to speed up. 
 "exercise_VolForecastRV20220708.mlx" uses a function "vol_forecast" to make codes shorter than "exercise_VolForecastRV20220707.mlx". However, it is slower (maybe due to in different computers)
 
+Folder "Volatility predict 20220719" provides a compact project of forecasting volatility of SP500, DAX, FTSE, NIKKIE using GARCH, GJR, RSGARCH and HAR respectively with training size 750 forecast time from 2019-05-19 to 2022-05-18.
