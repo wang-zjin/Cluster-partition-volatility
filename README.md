@@ -13,3 +13,9 @@ The actual volatility is proxied by realised volatility. The forecast time is fr
 "exercise_VolForecastRV20220708.mlx" uses a function "vol_forecast" to make codes shorter than "exercise_VolForecastRV20220707.mlx". However, it is slower (maybe due to in different computers)
 
 Folder "Volatility predict 20220719" provides a compact project of forecasting volatility of SP500, DAX, FTSE, NIKKIE using GARCH, GJR, RSGARCH and HAR respectively with training size 750 forecast time from 2019-05-19 to 2022-05-18.
+
+Project:
+
+- For a complete process, "exercise_VolForecastRV20220803.mlx" predict volatility of SP500, DAX, FTSE and NIKKIE with normal innovations, estimation window 750, moving window everyday and minimal cluster length 50. Inputs are "XXX_0608.xlsx", results are VolFcst_normal_XXX_size750_20220803.mat and Volatility_forecast_SP500_20220803.xlsx, figures and charts are also in folder "results_VolFcst_normal_XXX_size_750_20220803". 
+
+- Using forecast volatility above, “VaR_SP500_20220805.mlx” produces VaR predict. Inputs are "XXX_0608.xlsx" and "VolFcst_normal_XXX_size750_20220803.mat", outputs are figures and tex in folder "results_XXX_20220805".
