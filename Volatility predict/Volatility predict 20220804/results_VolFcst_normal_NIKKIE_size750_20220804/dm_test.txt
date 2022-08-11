@@ -1,0 +1,16 @@
+\begin{tabular}{ll}
+& Var1 \\ 
+\hline 
+CPGARCH & 0.53032 \\ 
+GARCH Ite. & 0.99412 \\ 
+GJRGARCH & 0.060838 \\ 
+CPGJRGARCH & 0.99954 \\ 
+CPGJRGARCH Ite. & 0.98394 \\ 
+RSGARCH & 1.5795e-07 \\ 
+CPRSGARCH & 0.0043662 \\ 
+CPRSGARCH Ite. & 0.020712 \\ 
+HAR & 1 \\ 
+CPHAR & 1 \\ 
+HAR Ite. & 1 \\ 
+\hline 
+\end{tabular}
