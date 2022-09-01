@@ -16,7 +16,7 @@ The actual volatility is proxied by realised volatility. The forecast time is fr
 - "exercise_VolForecastRV20220804.mlx" makes codes shorter and also makes initial value of RSGARCH updated as the last estimated parameters at every rolling window.
 - "exercise_VolForecastRV20220807.mlx" prredict volatility with t innovation.
 - "exercise_VolForecastRV20220805.mlx" prredict volatility. Fix bug of "min_length" not in every CPs or CP-Is. Merge normal distribution, t distribution. Add 'Window_Size', 'Cluster_Min_Length' and 'Innovation_Distribution' as extra input.
-- "exercise_VolForecastRV20220811.mlx" prredict volatility. Fix bug of "min_length" not in every CPs or CP-Is. Merge normal distribution, t distribution. Add 'Window_Size', 'Cluster_Min_Length' and 'Innovation_Distribution' as extra input.
+- "exercise_VolForecastRV20220811.mlx" prredict volatility. The difference between "exercise_VolForecastRV20220805.mlx" is that this mlx uses separate functions to evaluate GARCH, GJR, HAR and RSGARCH. In this case, we can easily adjust hyperparameters of 'Window_Size', 'Cluster_Min_Length' and 'Innovation_Distribution. It runs faster than "exercise_VolForecastRV20220805.mlx". Moreover, we delete results of NIKKIE as we can not solve CP-RSGARCH and RCP-RSGARCH of NIKKIE, the problem is these results are super bad.
 
 
 Folder "Volatility predict 20220719" provides a compact project of forecasting volatility of SP500, DAX, FTSE, NIKKIE using GARCH, GJR, RSGARCH and HAR respectively with training size 750 forecast time from 2019-05-19 to 2022-05-18.
