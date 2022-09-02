@@ -1,0 +1,17 @@
+\begin{tabular}{lll}
+& MAE & RMSE \\ 
+\hline 
+GARCH & 10.1144 & 16.2767 \\ 
+CPGARCH & 8.3658 & 15.5197 \\ 
+GARCH Ite. & 8.5911 & 16.7024 \\ 
+GJRGARCH & 11.3001 & 17.2816 \\ 
+CPGJRGARCH & 8.0136 & 13.5524 \\ 
+CPGJRGARCH Ite. & 9.934 & 17.2913 \\ 
+RSGARCH & 11.7568 & 22.1766 \\ 
+CPRSGARCH & 13.6705 & 25.2031 \\ 
+CPRSGARCH Ite. & 13.4493 & 24.0099 \\ 
+HAR & 4.5611 & 8.5553 \\ 
+CPHAR & 4.6011 & 8.9754 \\ 
+HAR Ite. & 4.6337 & 9.1207 \\ 
+\hline 
+\end{tabular}
