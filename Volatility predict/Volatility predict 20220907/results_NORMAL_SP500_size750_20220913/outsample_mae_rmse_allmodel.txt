@@ -1,0 +1,20 @@
+\begin{tabular}{lll}
+& MAE & RMSE \\ 
+\hline 
+GARCH & 1.1038 & 1.5491 \\ 
+CPGARCH & 1.2262 & 1.5678 \\ 
+ICPGARCH & 0.94075 & 1.2859 \\ 
+GJRGARCH & 1.2258 & 1.821 \\ 
+CPGJRGARCH & 0.99774 & 1.4026 \\ 
+ICPGJRGARCH. & 0.99774 & 1.4026 \\ 
+RSGARCH & 1.1662 & 1.4908 \\ 
+CPRSGARCH & 1.0581 & 1.343 \\ 
+ICPRSGARCH & 1.0406 & 1.3281 \\ 
+HAR & 0.59251 & 1.0995 \\ 
+CPHAR & 0.5831 & 1.1051 \\ 
+ICPHAR & 0.58434 & 1.1084 \\ 
+HAR-a & 0.5919 & 1.1059 \\ 
+CPHAR-a & 0.60788 & 1.1388 \\ 
+ICPHAR-a & 0.60156 & 1.1362 \\ 
+\hline 
+\end{tabular}
