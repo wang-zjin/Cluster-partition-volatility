@@ -1,0 +1,896 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2019.3.8)  16 DEC 2022 12:48
+entering extended mode
+**Cluster_volatility_20221216.tex
+
+("C:\Users\newhulk\Desktop\papers\My papers\Submitted papers\WangZijin\Cluster_
+Volatility20221216\Cluster_volatility_20221216.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for loaded.
+(D:\software_installed\cteX\MiKTeX\tex\latex\elsarticle\elsarticle.cls
+Document Class: elsarticle 2009/09/17, 1.2.0: Elsevier Ltd
+\@bls=\dimen102
+(D:\software_installed\cteX\MiKTeX\tex\latex\base\article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(D:\software_installed\cteX\MiKTeX\tex\latex\base\size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\graphics\graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\graphics\keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\graphics\graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\graphics\trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\00miktex\graphics.cfg
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\pdftex-def\pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\ltxcmds.sty
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\psnfss\pifont.sty
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+\c@tnote=\count88
+\c@fnote=\count89
+\c@cnote=\count90
+\c@ead=\count91
+\c@author=\count92
+\@eadauthor=\toks15
+\c@affn=\count93
+\absbox=\box26
+\keybox=\box27
+\Columnwidth=\dimen106
+\space@left=\dimen107
+\els@boxa=\box28
+\els@boxb=\box29
+\leftMargin=\dimen108
+\@enLab=\toks16
+\@sep=\skip43
+\@@sep=\skip44
+
+("C:\Users\newhulk\Desktop\papers\My papers\Submitted papers\WangZijin\Cluster_
+Volatility20221216\Cluster_volatility_20221216.spl")
+(D:\software_installed\cteX\MiKTeX\tex\latex\natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip45
+\bibsep=\skip46
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count94
+)
+\splwrite=\write3
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\mmap\mmap.sty
+Package: mmap 2008/08/11 v1.03 CMAP support for math in PDF
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\cmap\cmap.sty
+Package: cmap 2008/03/06 v1.0h CMap support: searchable PDF
+)
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+))
+(D:\software_installed\cteX\MiKTeX\tex\latex\amsfonts\amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks17
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\ams\math\amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+(D:\software_installed\cteX\MiKTeX\tex\latex\ams\math\amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\ams\math\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen109
+))
+(D:\software_installed\cteX\MiKTeX\tex\latex\ams\math\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen110
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\ams\math\amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count95
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count96
+\leftroot@=\count97
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count98
+\DOTSCASE@=\count99
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count100
+\c@MaxMatrixCols=\count101
+\dotsspace@=\muskip10
+\c@parentequation=\count102
+\dspbrk@lvl=\count103
+\tag@help=\toks19
+\row@=\count104
+\column@=\count105
+\maxfields@=\count106
+\andhelp@=\toks20
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks21
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\amsfonts\amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\ams\classes\amsthm.sty
+Package: amsthm 2004/08/06 v2.20
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
+\thm@preskip=\skip50
+\thm@postskip=\skip51
+\thm@headsep=\skip52
+\dth@everypar=\toks28
+LaTeX Info: Redefining \qed on input line 283.
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\bbm\bbm.sty
+Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
+LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
+(Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
+(Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\graphics\color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\00miktex\color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\ms\ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\ms\everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+\CenteringLeftskip=\skip53
+\RaggedLeftLeftskip=\skip54
+\RaggedRightLeftskip=\skip55
+\CenteringRightskip=\skip56
+\RaggedLeftRightskip=\skip57
+\RaggedRightRightskip=\skip58
+\CenteringParfillskip=\skip59
+\RaggedLeftParfillskip=\skip60
+\RaggedRightParfillskip=\skip61
+\JustifyingParfillskip=\skip62
+\CenteringParindent=\skip63
+\RaggedLeftParindent=\skip64
+\RaggedRightParindent=\skip65
+\JustifyingParindent=\skip66
+)
+\c@theorem=\count107
+\c@assumption=\count108
+\c@example=\count109
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\subfigure\subfigure.sty
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip67
+\subfigcapskip=\skip68
+\subfigcaptopadj=\dimen118
+\subfigbottomskip=\skip69
+\subfigcapmargin=\dimen119
+\subfiglabelskip=\skip70
+\c@subfigure=\count110
+\c@lofdepth=\count111
+\c@subtable=\count112
+\c@lotdepth=\count113
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(D:\software_installed\cteX\MiKTeX\tex\latex\subfigure\subfigure.cfg)
+\subfig@top=\skip71
+\subfig@bottom=\skip72
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\paralist\paralist.sty
+Package: paralist 2002/03/18 v2.3b Extended list environments (BS)
+\pltopsep=\skip73
+\plpartopsep=\skip74
+\plitemsep=\skip75
+\plparsep=\skip76
+\pl@lab=\toks29
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\tools\longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip77
+\LTright=\skip78
+\LTpre=\skip79
+\LTpost=\skip80
+\LTchunksize=\count114
+\LTcapwidth=\dimen120
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count115
+\LT@rows=\count116
+\c@LT@tables=\count117
+\c@LT@chunks=\count118
+\LT@p@ftn=\toks30
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\multirow\multirow.sty
+\bigstrutjot=\dimen121
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\ulem\ulem.sty
+\UL@box=\box36
+\UL@hyphenbox=\box37
+\UL@skip=\skip81
+\UL@hook=\toks31
+\UL@height=\dimen122
+\UL@pe=\count119
+\UL@pixel=\dimen123
+\ULC@box=\box38
+Package: ulem 2011/03/18
+\ULdepth=\dimen124
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\base\ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen125
+\lightrulewidth=\dimen126
+\cmidrulewidth=\dimen127
+\belowrulesep=\dimen128
+\belowbottomsep=\dimen129
+\aboverulesep=\dimen130
+\abovetopsep=\dimen131
+\cmidrulesep=\dimen132
+\cmidrulekern=\dimen133
+\defaultaddspace=\dimen134
+\@cmidla=\count120
+\@cmidlb=\count121
+\@aboverulesep=\dimen135
+\@belowrulesep=\dimen136
+\@thisruleclass=\count122
+\@lastruleclass=\count123
+\@thisrulewidth=\dimen137
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\threeparttable\threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box39
+) (D:\software_installed\cteX\MiKTeX\tex\latex\rotating\rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+\c@r@tfl@t=\count124
+\rotFPtop=\skip82
+\rotFPbot=\skip83
+\rot@float@box=\box40
+\rot@mess@toks=\toks32
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\graphics\epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen138
+\epsfysize=\dimen139
+)
+(D:\software_installed\cteX\MiKTeX\tex\latex\oberdiek\epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\oberdiek\grfext.sty
+Package: grfext 2010/08/19 v1.1 Managing graphics extensions (HO)
+
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+))
+(D:\software_installed\cteX\MiKTeX\tex\latex\oberdiek\kvoptions.sty
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+))
+(D:\software_installed\cteX\MiKTeX\tex\latex\hyperref\hyperref.sty
+Package: hyperref 2012/02/06 v6.82o Hypertext links for LaTeX
+
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\hobsub-hyperref.sty
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\hobsub-generic.sty
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+(D:\software_installed\cteX\MiKTeX\tex\generic\ifxetex\ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\@linkdim=\dimen140
+\Hy@linkcounter=\count125
+\Hy@pagecounter=\count126
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\hyperref\pd1enc.def
+File: pd1enc.def 2012/02/06 v6.82o Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count127
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count128
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\ltxmisc\url.sty
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count129
+\Field@Width=\dimen141
+\Fld@charsize=\dimen142
+Package hyperref Info: Hyper figures OFF on input line 5757.
+Package hyperref Info: Link nesting OFF on input line 5762.
+Package hyperref Info: Hyper index ON on input line 5765.
+Package hyperref Info: backreferencing OFF on input line 5772.
+Package hyperref Info: Link coloring OFF on input line 5777.
+Package hyperref Info: Link coloring with OCG OFF on input line 5782.
+Package hyperref Info: PDF/A mode OFF on input line 5787.
+LaTeX Info: Redefining \ref on input line 5827.
+LaTeX Info: Redefining \pageref on input line 5831.
+\Hy@abspage=\count130
+\c@Item=\count131
+\c@Hfootnote=\count132
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\hyperref\hpdftex.def
+File: hpdftex.def 2012/02/06 v6.82o Hyperref driver for pdfTeX
+\Fld@listcount=\count133
+\c@bookmark@seq@number=\count134
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\oberdiek\rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip84
+)
+("C:\Users\newhulk\Desktop\papers\My papers\Submitted papers\WangZijin\Cluster_
+Volatility20221216\Cluster_volatility_20221216.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+
+(D:\software_installed\cteX\MiKTeX\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count135
+\scratchdimen=\dimen143
+\scratchbox=\box41
+\nofMPsegments=\count136
+\nofMParguments=\count137
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count138
+\MPscratchDim=\dimen144
+\MPnumerator=\count139
+\makeMPintoPDFobject=\count140
+\everyMPtoPDFconversion=\toks34
+) ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 79.
+\AtBeginShipoutBox=\box42
+Package hyperref Info: Link coloring OFF on input line 79.
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\hyperref\nameref.sty
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+(D:\software_installed\cteX\MiKTeX\tex\generic\oberdiek\gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count141
+)
+LaTeX Info: Redefining \ref on input line 79.
+LaTeX Info: Redefining \pageref on input line 79.
+LaTeX Info: Redefining \nameref on input line 79.
+
+("C:\Users\newhulk\Desktop\papers\My papers\Submitted papers\WangZijin\Cluster_
+Volatility20221216\Cluster_volatility_20221216.out")
+("C:\Users\newhulk\Desktop\papers\My papers\Submitted papers\WangZijin\Cluster_
+Volatility20221216\Cluster_volatility_20221216.out")
+\@outlinefile=\write4
+<<ot1.cmap>><<ot1rmn.cmap>><<omlmit.cmap>><<oms.cmap>>
+LaTeX Font Info:    OMX-m encoding encountered on input line 125.
+<<omx.cmap>>
+LaTeX Font Info:    OMX-m encoding encountered on input line 125.
+LaTeX Font Info:    OMX-m encoding encountered on input line 125.
+LaTeX Font Info:    Try loading font information for U+msa on input line 125.
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\amsfonts\umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)<<umsa.cmap>>
+LaTeX Font Info:    Try loading font information for U+msb on input line 125.
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\amsfonts\umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)<<umsb.cmap>>
+[1
+
+
+{D:/software_installed/cteX/UserData/pdftex/config/pdftex.map{Unicode.sfd}{UGBK
+.sfd}}]
+LaTeX Font Info:    OMX-m encoding encountered on input line 125.
+LaTeX Font Info:    OMX-m encoding encountered on input line 125.
+LaTeX Font Info:    OMX-m encoding encountered on input line 125.
+ [2] [3] [4] [5] [6]
+LaTeX Font Info:    Try loading font information for U+bbm on input line 312.
+
+(D:\software_installed\cteX\MiKTeX\tex\latex\bbm\ubbm.fd
+File: ubbm.fd 1999/03/15 V 1.2 Font definition for bbm font - TH
+)
+
+Package mmap Warning: !!! No .cmap file found for ubbm !!!  on input line 312.
+
+[7] [8] [9] [10] [11]
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+ [12] [13] [14] [15] [16] [17] [18] [19] [20] [21]
+[22] [23] [24] [25]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no ¼ in font cmr12!
+ [26]
+Missing character: There is no â in font cmr12!
+Missing character: There is no € in font cmr12!
+Missing character: There is no ™ in font cmr12!
+ [27]
+Underfull \hbox (badness 2027) in paragraph at lines 1091--1092
+[]\OT1/cmr/m/n/10 Note: Codes can be found in []$\OT1/cmtt/m/n/10 https : / / g
+ithub . com / wzj5163 /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1092
+$\OT1/cmtt/m/n/10 Cluster-[]partition-[]volatility / tree / main / Insample _$
+ []
+
+[28
+
+]
+Underfull \hbox (badness 6157) in paragraph at lines 1121--1122
+[]\OT1/cmr/m/n/10 Note: Codes can be found in []$\OT1/cmtt/m/n/10 https : / / g
+ithub . com / wzj5163 /$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1121--1122
+$\OT1/cmtt/m/n/10 Cluster-[]partition-[]volatility / tree / main / Insample _ e
+stimation /$
+ []
+
+[29]
+Underfull \hbox (badness 2662) in paragraph at lines 1154--1158
+[]\OT1/cmr/m/n/10 Notes: This ta-ble re-port-s the mean loss-es of the d-if-fer
+-en-t volatil-
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 1154--1158
+\OT1/cmr/m/n/10 i-ty mod-el-s over the in-sample pe-ri-od with re-spec-t to t-w
+o val-u-a-
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 1154--1158
+\OT1/cmr/m/n/10 tion cri-te-ri-a (MAE and RMSE). Codes can be found in []$\OT1/
+cmtt/m/n/10 https :$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1154--1158
+$\OT1/cmtt/m/n/10 / / github . com / wzj5163 / Cluster-[]partition-[]volatility
+ / tree / main /$
+ []
+
+[30]
+Underfull \hbox (badness 2050) in paragraph at lines 1189--1191
+[]\OT1/cmr/m/n/10 Notes: This ta-ble re-port-s the mean loss-es of the d-if-fer
+-en-t volatil-i-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 1189--1191
+\OT1/cmr/m/n/10 ty mod-el-s over the out-of-sample pe-ri-od with re-spec-t to t
+-wo MAE
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 1189--1191
+\OT1/cmr/m/n/10 and RMSE. The val-ues in bold face in-di-cate best-performing m
+od-el-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 1189--1191
+\OT1/cmr/m/n/10 in []$\OT1/cmtt/m/n/10 https : / / github . com / wzj5163 / Clu
+ster-[]partition-[]volatility / tree /$
+ []
+
+[31]
+Overfull \hbox (39.84232pt too wide) in paragraph at lines 1197--1218
+ [] 
+ []
+
+[32] [33]
+Overfull \vbox (29.73352pt too high) has occurred while \output is active []
+
+
+[34]
+Overfull \vbox (12.9336pt too high) has occurred while \output is active []
+
+
+[35]
+Underfull \hbox (badness 2050) in paragraph at lines 1348--1350
+[]\OT1/cmr/m/n/10 Notes: This ta-ble re-port-s the mean loss-es of the d-if-fer
+-en-t volatil-i-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 1348--1350
+\OT1/cmr/m/n/10 ty mod-el-s over the out-of-sample pe-ri-od with re-spec-t to t
+-wo MAE
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 1348--1350
+\OT1/cmr/m/n/10 and RMSE. The val-ues in bold face in-di-cate best-performing m
+od-el-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 1348--1350
+\OT1/cmr/m/n/10 in []$\OT1/cmtt/m/n/10 https : / / github . com / wzj5163 / Clu
+ster-[]partition-[]volatility / tree /$
+ []
+
+
+Underfull \hbox (badness 2050) in paragraph at lines 1381--1383
+[]\OT1/cmr/m/n/10 Notes: This ta-ble re-port-s the mean loss-es of the d-if-fer
+-en-t volatil-i-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 1381--1383
+\OT1/cmr/m/n/10 ty mod-el-s over the out-of-sample pe-ri-od with re-spec-t to t
+-wo MAE
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 1381--1383
+\OT1/cmr/m/n/10 and RMSE. The val-ues in bold face in-di-cate best-performing m
+od-el-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 1381--1383
+\OT1/cmr/m/n/10 in []$\OT1/cmtt/m/n/10 https : / / github . com / wzj5163 / Clu
+ster-[]partition-[]volatility / tree /$
+ []
+
+[36]
+Underfull \hbox (badness 2050) in paragraph at lines 1414--1416
+[]\OT1/cmr/m/n/10 Notes: This ta-ble re-port-s the mean loss-es of the d-if-fer
+-en-t volatil-i-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 1414--1416
+\OT1/cmr/m/n/10 ty mod-el-s over the out-of-sample pe-ri-od with re-spec-t to t
+-wo MAE
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 1414--1416
+\OT1/cmr/m/n/10 and RMSE. The val-ues in bold face in-di-cate best-performing m
+od-el-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 1414--1416
+\OT1/cmr/m/n/10 in []$\OT1/cmtt/m/n/10 https : / / github . com / wzj5163 / Clu
+ster-[]partition-[]volatility / tree /$
+ []
+
+[37]
+Underfull \hbox (badness 2050) in paragraph at lines 1447--1449
+[]\OT1/cmr/m/n/10 Notes: This ta-ble re-port-s the mean loss-es of the d-if-fer
+-en-t volatil-i-
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 1447--1449
+\OT1/cmr/m/n/10 ty mod-el-s over the out-of-sample pe-ri-od with re-spec-t to t
+-wo MAE
+ []
+
+
+Underfull \hbox (badness 1577) in paragraph at lines 1447--1449
+\OT1/cmr/m/n/10 and RMSE. The val-ues in bold face in-di-cate best-performing m
+od-el-
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 1447--1449
+\OT1/cmr/m/n/10 in []$\OT1/cmtt/m/n/10 https : / / github . com / wzj5163 / Clu
+ster-[]partition-[]volatility / tree /$
+ []
+
+[38]
+Overfull \hbox (39.84232pt too wide) in paragraph at lines 1455--1477
+ [] 
+ []
+
+
+Overfull \hbox (39.84232pt too wide) in paragraph at lines 1483--1505
+ [] 
+ []
+
+[39] [40] [41]
+<Peimin/Volatility_SP_CP_GARCH_GJR_RSGARCH.png, id=609, 562.2606pt x 421.575pt>
+File: Peimin/Volatility_SP_CP_GARCH_GJR_RSGARCH.png Graphic file (type png)
+<use Peimin/Volatility_SP_CP_GARCH_GJR_RSGARCH.png>
+Package pdftex.def Info: Peimin/Volatility_SP_CP_GARCH_GJR_RSGARCH.png used on 
+input line 1514.
+(pdftex.def)             Requested size: 447.81621pt x 335.76805pt.
+
+<Peimin/Volatility_DAX_CP_GARCH_GJR_RSGARCH.png, id=612, 562.2606pt x 421.575pt
+>
+File: Peimin/Volatility_DAX_CP_GARCH_GJR_RSGARCH.png Graphic file (type png)
+ <use Peimin/Volatility_DAX_CP_GARCH_GJR_RSGARCH.png>
+Package pdftex.def Info: Peimin/Volatility_DAX_CP_GARCH_GJR_RSGARCH.png used on
+ input line 1526.
+(pdftex.def)             Requested size: 447.81621pt x 335.76805pt.
+
+<Peimin/Volatility_FTSE_CP_GARCH_GJR_RSGARCH.png, id=615, 562.2606pt x 421.575p
+t>
+File: Peimin/Volatility_FTSE_CP_GARCH_GJR_RSGARCH.png Graphic file (type png)
+ <use Peimin/Volatility_FTSE_CP_GARCH_GJR_RSGARCH.png>
+Package pdftex.def Info: Peimin/Volatility_FTSE_CP_GARCH_GJR_RSGARCH.png used o
+n input line 1537.
+(pdftex.def)             Requested size: 447.81621pt x 335.76805pt.
+
+<Peimin/volatility_forecast_allmodel_SP.png, id=618, 903.375pt x 301.125pt>
+File: Peimin/volatility_forecast_allmodel_SP.png Graphic file (type png)
+
+<use Peimin/volatility_forecast_allmodel_SP.png>
+Package pdftex.def Info: Peimin/volatility_forecast_allmodel_SP.png used on inp
+ut line 1551.
+(pdftex.def)             Requested size: 358.25432pt x 119.41862pt.
+
+<Peimin/volatility_forecast_allmodel_DAX.png, id=619, 903.375pt x 301.125pt>
+File: Peimin/volatility_forecast_allmodel_DAX.png Graphic file (type png)
+
+<use Peimin/volatility_forecast_allmodel_DAX.png>
+Package pdftex.def Info: Peimin/volatility_forecast_allmodel_DAX.png used on in
+put line 1554.
+(pdftex.def)             Requested size: 358.25432pt x 119.41862pt.
+
+<Peimin/volatility_forecast_allmodel_FTSE.png, id=620, 903.375pt x 301.125pt>
+File: Peimin/volatility_forecast_allmodel_FTSE.png Graphic file (type png)
+
+<use Peimin/volatility_forecast_allmodel_FTSE.png>
+Package pdftex.def Info: Peimin/volatility_forecast_allmodel_FTSE.png used on i
+nput line 1557.
+(pdftex.def)             Requested size: 358.25432pt x 119.41862pt.
+
+<Peimin/VaR_HS_99.png, id=621, 562.2606pt x 421.575pt>
+File: Peimin/VaR_HS_99.png Graphic file (type png)
+
+<use Peimin/VaR_HS_99.png>
+Package pdftex.def Info: Peimin/VaR_HS_99.png used on input line 1568.
+(pdftex.def)             Requested size: 170.71652pt x 127.99802pt.
+
+<Peimin/VaR_CPRSGARCH_T_99.png, id=622, 562.2606pt x 421.575pt>
+File: Peimin/VaR_CPRSGARCH_T_99.png Graphic file (type png)
+
+<use Peimin/VaR_CPRSGARCH_T_99.png>
+Package pdftex.def Info: Peimin/VaR_CPRSGARCH_T_99.png used on input line 1573.
+
+(pdftex.def)             Requested size: 170.71652pt x 127.99802pt.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1580.
+ [42
+
+ <C:/Users/newhulk/Desktop/papers/My papers/Submitted papers/WangZijin/Cluster_
+Volatility20221216/Peimin/Volatility_SP_CP_GARCH_GJR_RSGARCH.png (PNG copy)>] [
+43 <C:/Users/newhulk/Desktop/papers/My papers/Submitted papers/WangZijin/Cluste
+r_Volatility20221216/Peimin/Volatility_DAX_CP_GARCH_GJR_RSGARCH.png (PNG copy)>
+] [44 <C:/Users/newhulk/Desktop/papers/My papers/Submitted papers/WangZijin/Clu
+ster_Volatility20221216/Peimin/Volatility_FTSE_CP_GARCH_GJR_RSGARCH.png (PNG co
+py)>] [45 <C:/Users/newhulk/Desktop/papers/My papers/Submitted papers/WangZijin
+/Cluster_Volatility20221216/Peimin/volatility_forecast_allmodel_SP.png (PNG cop
+y)> <C:/Users/newhulk/Desktop/papers/My papers/Submitted papers/WangZijin/Clust
+er_Volatility20221216/Peimin/volatility_forecast_allmodel_DAX.png (PNG copy)> <
+C:/Users/newhulk/Desktop/papers/My papers/Submitted papers/WangZijin/Cluster_Vo
+latility20221216/Peimin/volatility_forecast_allmodel_FTSE.png (PNG copy)> <C:/U
+sers/newhulk/Desktop/papers/My papers/Submitted papers/WangZijin/Cluster_Volati
+lity20221216/Peimin/VaR_HS_99.png (PNG copy)> <C:/Users/newhulk/Desktop/papers/
+My papers/Submitted papers/WangZijin/Cluster_Volatility20221216/Peimin/VaR_CPRS
+GARCH_T_99.png (PNG copy)>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1580.
+
+("C:\Users\newhulk\Desktop\papers\My papers\Submitted papers\WangZijin\Cluster_
+Volatility20221216\Cluster_volatility_20221216.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1580.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1580.
+
+
+
+Package rerunfilecheck Warning: File `Cluster_volatility_20221216.out' has chan
+ged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Cluster_volatility_20221216.out':
+(rerunfilecheck)             Before: E6B15BBFEC150F6239F918B706B72698;3894
+(rerunfilecheck)             After:  ECD9B86BCA84DE4BD774AE8C150520F8;1147.
+ ) 
+Here is how much of TeX's memory you used:
+ 7943 strings out of 495354
+ 115580 string characters out of 3182796
+ 219240 words of memory out of 3000000
+ 10692 multiletter control sequences out of 15000+200000
+ 13943 words of font info for 57 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 42i,12n,34p,1259b,523s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <D:\software_installed\cteX\UserData\fonts\pk\ljfour\public\bbm\dpi600\bbm12
+.pk><D:/software_installed/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b><D:/software_installed/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+<D:/software_installed/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D
+:/software_installed/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/
+software_installed/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><D:/so
+ftware_installed/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><D:/softw
+are_installed/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><D:/software
+_installed/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><D:/software_in
+stalled/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><D:/software_insta
+lled/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/software_installe
+d/cteX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><D:/software_installed/c
+teX/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><D:/software_installed/cteX
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/software_installed/cteX/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/software_installed/cteX/MiKTeX/
+fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/software_installed/cteX/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy10.pfb><D:/software_installed/cteX/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy6.pfb><D:/software_installed/cteX/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmsy7.pfb><D:/software_installed/cteX/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmsy8.pfb><D:/software_installed/cteX/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmti10.pfb><D:/software_installed/cteX/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmti12.pfb><D:/software_installed/cteX/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmtt10.pfb><D:/software_installed/cteX/MiKTeX/fonts/type1/public/am
+sfonts/symbols/msbm10.pfb>
+Output written on Cluster_volatility_20221216.pdf (45 pages, 1241856 bytes).
+PDF statistics:
+ 766 PDF objects out of 1000 (max. 8388607)
+ 187 named destinations out of 1000 (max. 500000)
+ 205 words of extra memory for PDF output out of 10000 (max. 10000000)
+

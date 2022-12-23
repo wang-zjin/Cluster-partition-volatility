@@ -1,0 +1,17 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Volatility cluster model}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{GARCH volatility model}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Regime switching GARCH model}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{HAR-RV model}{section.2}% 5
+\BOOKMARK [1][-]{section.3}{Cluster partition model}{}% 6
+\BOOKMARK [2][-]{subsection.3.1}{General cluster partitions of dynamic volatility}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.2}{Cluster number}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.3}{Iterated cluster partition volatility}{section.3}% 9
+\BOOKMARK [1][-]{section.4}{Comparison of models}{}% 10
+\BOOKMARK [2][-]{subsection.4.1}{Volatility forecast}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.2}{VaR estimation}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Empirical results}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{In-sample estimations of volatility models}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Volatility forecast}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{VaR forecast}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 17
