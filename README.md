@@ -2,12 +2,25 @@
 
 ```yaml
 
+Abstract: 'It is well known that volatility has time-varying and clustering characteristics. The information content of volatility clustering is particularly important in turbulent periods, such as the stage of financial crisis. How to fully mine the implicit information within clusters to predict the volatility in the future is a rarely discussed issue. In this paper, we put forward a partition model to segment volatility into non-overlapping clusters by Fisher’s optimal dissection methodology. Using this model, we can quickly identify the points of structural changes in volatility. By utilizing the information of the nearest cluster, we can perform point estimation and interval estimation on future volatility. In the end, we conduct some empirical examples based on the returns of S&P 500, DAX 30 and FTSE 100 index. We find that our method can improve the volatility forecast and VaR estimations.'
+
 Author: 'Zijin Wang'
 
 ```
 
-Project:
+For questions or suggestions, please write to wangzijin516@smail.swufe.edu.cn 
 
-- For a complete process, "exercise_VolForecastRV20220803.mlx" predict volatility of SP500, DAX, FTSE and NIKKIE with normal innovations, estimation window 750, moving window everyday and minimal cluster length 50. Inputs are "XXX_0608.xlsx", results are VolFcst_normal_XXX_size750_20220803.mat and Volatility_forecast_SP500_20220803.xlsx, figures and charts are also in folder "results_VolFcst_normal_XXX_size_750_20220803". 
+If you read our paper and use tthe code to extend your research, we appreciate if you cite our paper:
 
-- Using forecast volatility above, “VaR_SP500_20220805.mlx” produces VaR predict. Inputs are "XXX_0608.xlsx" and "VolFcst_normal_XXX_size750_20220803.mat", outputs are figures and tex in folder "results_XXX_20220805".
+- Wang, Zijin, et al. "Volatility forecasts by clustering: Applications for VaR estimation." International Review of Economics & Finance (2024).
+
+## BibTex
+
+@article{wang2024volatility,
+  title={Volatility forecasts by clustering: Applications for VaR estimation},
+  author={Wang, Zijin and Chen, Peimin and Liu, Peng and Wu, Chunchi},
+  journal={International Review of Economics \& Finance},
+  year={2024},
+  publisher={Elsevier}
+}
+
